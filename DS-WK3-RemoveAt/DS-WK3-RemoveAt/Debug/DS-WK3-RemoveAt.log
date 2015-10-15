@@ -1,0 +1,15 @@
+﻿Build started 6/25/2015 5:08:01 PM.
+     1>Project "C:\Users\Ryan\Desktop\C++ Projects\DS-WK3-RemoveAt\DS-WK3-RemoveAt\DS-WK3-RemoveAt.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt RemoveAt.cpp
+         RemoveAt.cpp
+     1>c:\users\ryan\desktop\c++ projects\ds-wk3-removeat\ds-wk3-removeat\removeat.cpp(8): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\ryan\desktop\c++ projects\ds-wk3-removeat\ds-wk3-removeat\removeat.cpp(8): error C2182: 'arrayListType' : illegal use of type 'void'
+     1>c:\users\ryan\desktop\c++ projects\ds-wk3-removeat\ds-wk3-removeat\removeat.cpp(8): error C2988: unrecognizable template declaration/definition
+     1>c:\users\ryan\desktop\c++ projects\ds-wk3-removeat\ds-wk3-removeat\removeat.cpp(8): error C2059: syntax error : '<'
+     1>c:\users\ryan\desktop\c++ projects\ds-wk3-removeat\ds-wk3-removeat\removeat.cpp(8): error C2039: 'removeAt' : is not a member of '`global namespace''
+     1>Done Building Project "C:\Users\Ryan\Desktop\C++ Projects\DS-WK3-RemoveAt\DS-WK3-RemoveAt\DS-WK3-RemoveAt.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.71
